@@ -1,0 +1,11 @@
+/src/test/java/activity/calculadora/
+/src/test/java/activity/contactManager/
+/src/test/java/runner/
+/src/test/java/testBasic/
+/gradlew
+/gradlew.bat
+/settings.gradle
+/.gradle/
+/.idea/
+/build/
+/gradle/wrapper/
